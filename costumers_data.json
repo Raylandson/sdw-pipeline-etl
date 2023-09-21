@@ -1,0 +1,139 @@
+{
+      "costumers": [
+            {
+                  "id": 1,
+                  "name": "Robson",
+                  "account": {
+                        "id": 1,
+                        "number": "3333 - 333",
+                        "agency": "0052",
+                        "balance": 0,
+                        "limit": 0
+                  },
+                  "card": {
+                        "id": 0,
+                        "number": "3333 - 333",
+                        "limit": 0
+                  },
+                  "features": [
+                        {
+                              "id": 0,
+                              "icon": "string",
+                              "description": "string"
+                        }
+                  ],
+                  "news": [
+                        {
+                              "id": 0,
+                              "icon": "string",
+                              "description": "string"
+                        },
+                        {
+                              "id": 1,
+                              "icon": "string",
+                              "description": ", um cliente de um banco.\n\nOl\u00e1 Robson,\n\nVoc\u00ea est\u00e1 pronto para come\u00e7ar a investir? Investir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e alcan\u00e7ar seus objetivos financeiros.\n\nComo especialista em marketing banc\u00e1rio, posso dizer que investir \u00e9 uma \u00f3tima"
+                        },
+                        {
+                              "id": 2,
+                              "icon": "string",
+                              "description": ", um cliente de um banco.\n\nOl\u00e1 Robson,\n\nInvestir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e alcan\u00e7ar seus objetivos financeiros. Como especialista em marketing banc\u00e1rio, posso dizer que investir \u00e9 uma das melhores maneiras de obter retornos financeiros a longo"
+                        },
+                        {
+                              "id": 3,
+                              "icon": "string",
+                              "description": ".\n\nCaro Robson,\n\nInvestir \u00e9 uma forma importante de garantir seu futuro financeiro. Os investimentos podem ajudar a aumentar seu patrim\u00f4nio, proteger seu dinheiro contra a infla\u00e7\u00e3o e at\u00e9 mesmo gerar renda passiva. Como especialista em marketing banc\u00e1rio, posso ajud\u00e1-lo a encontrar"
+                        }
+                  ]
+            },
+            {
+                  "id": 2,
+                  "name": "Cleber",
+                  "account": {
+                        "id": 2,
+                        "number": "2222 - 222",
+                        "agency": "0052",
+                        "balance": 0,
+                        "limit": 0
+                  },
+                  "card": {
+                        "id": 0,
+                        "number": "2222 - 222",
+                        "limit": 0
+                  },
+                  "features": [
+                        {
+                              "id": 0,
+                              "icon": "string",
+                              "description": "string"
+                        }
+                  ],
+                  "news": [
+                        {
+                              "id": 0,
+                              "icon": "string",
+                              "description": "string"
+                        },
+                        {
+                              "id": 1,
+                              "icon": "string",
+                              "description": ", um cliente de um banco.\n\nOl\u00e1 Cleber,\n\nInvestir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e criar um futuro financeiro mais seguro. Com os investimentos, voc\u00ea pode aproveitar as oportunidades de mercado para obter retornos significativos.\n\nNosso banco oferece"
+                        },
+                        {
+                              "id": 2,
+                              "icon": "string",
+                              "description": ", um cliente de uma institui\u00e7\u00e3o financeira.\n\nOl\u00e1 Cleber,\n\nInvestir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e alcan\u00e7ar seus objetivos financeiros. Como especialista em marketing banc\u00e1rio, quero lhe mostrar que os investimentos podem ser uma \u00f3tima maneira de aument"
+                        },
+                        {
+                              "id": 3,
+                              "icon": "string",
+                              "description": ", um cliente de um banco.\n\nOl\u00e1 Cleber,\n\nInvestir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e alcan\u00e7ar seus objetivos financeiros. Com os investimentos certos, voc\u00ea pode obter retornos significativos a longo prazo, al\u00e9m de proteger seu dinheiro contra a infla\u00e7"
+                        }
+                  ]
+            },
+            {
+                  "id": 3,
+                  "name": "Joshua",
+                  "account": {
+                        "id": 3,
+                        "number": "1111 - 111",
+                        "agency": "0052",
+                        "balance": 0,
+                        "limit": 0
+                  },
+                  "card": {
+                        "id": 0,
+                        "number": "1111 - 111",
+                        "limit": 0
+                  },
+                  "features": [
+                        {
+                              "id": 0,
+                              "icon": "string",
+                              "description": "string"
+                        }
+                  ],
+                  "news": [
+                        {
+                              "id": 0,
+                              "icon": "string",
+                              "description": "string"
+                        },
+                        {
+                              "id": 1,
+                              "icon": "string",
+                              "description": ", um jovem de 25 anos.\n\nOl\u00e1 Joshua,\n\nVoc\u00ea est\u00e1 pronto para come\u00e7ar a investir? Investir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e garantir um futuro financeiro seguro.\n\nAo investir, voc\u00ea pode aproveitar a for\u00e7a dos juros compostos para aumentar seu pat"
+                        },
+                        {
+                              "id": 2,
+                              "icon": "string",
+                              "description": ", um jovem de 25 anos.\n\nOl\u00e1 Joshua,\n\nVoc\u00ea est\u00e1 pronto para come\u00e7ar a investir? Investir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e garantir um futuro financeiro seguro.\n\nComo jovem de 25 anos, voc\u00ea tem a vantagem de come\u00e7ar a investir cedo. Ao"
+                        },
+                        {
+                              "id": 3,
+                              "icon": "string",
+                              "description": ", um cliente de 25 anos.\n\nOl\u00e1 Joshua,\n\nInvestir \u00e9 uma \u00f3tima maneira de aumentar seu patrim\u00f4nio e garantir seu futuro financeiro. Como um jovem de 25 anos, voc\u00ea tem a vantagem de ter mais tempo para investir e aproveitar os benef\u00edcios de longo prazo. Ao investir, voc"
+                        }
+                  ]
+            }
+      ]
+}
