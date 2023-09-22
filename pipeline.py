@@ -27,6 +27,8 @@ def generate_ai_news(user):
 
 for costumer in data["costumers"]:
     new = generate_ai_news(costumer)
+    if not new:
+        continue
     costumer["news"].append(
         {"id": len(costumer["news"]), "icon": "string", "description": new}
     )
